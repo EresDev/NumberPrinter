@@ -10,4 +10,5 @@ class NumberPrinter
     }
 }
 
+
 NumberPrinter::execute();
