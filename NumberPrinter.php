@@ -8,6 +8,7 @@ class NumberPrinter
             echo $i . "\n";
         }
     }
+
 }
 
 
